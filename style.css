@@ -1,0 +1,50 @@
+body {
+  border: 4px solid black;
+  font-family: sans-serif;
+  font-weight: bold;
+  line-height: 1.4;
+}
+
+.converse-title {
+  text-align: center;
+  background-color: rgba(128, 128, 128, 0.278);
+  text-transform: uppercase;
+}
+
+.product-title {
+  text-transform: uppercase;
+}
+
+.shippiing {
+  text-transform: uppercase;
+  color: gray;
+}
+
+.price {
+  font-size: larger;
+}
+
+.button-cart {
+  text-transform: uppercase;
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.button-cart:hover {
+  background-color: white;
+  color: black;
+}
+
+.more-info {
+  color: black;
+}
+
+.more-info:hover {
+  text-decoration: none;
+}
+
+.product-li {
+  list-style: square;
+}
